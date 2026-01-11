@@ -24,9 +24,6 @@ It provides insights into sales trends, customer behavior, and regional performa
 
 ## 📂 Files in Repository
 - `Dashboard.pbix` → Power BI project file  
-- `Dashboard.pdf` → Exported snapshot of the dashboard  
-- `Screenshots/` → Images of dashboard visuals  
-
 ## 🎯 Business Insights
 - East and Central regions contributed the highest sales.  
 - Alan Doe and other top customers drove majority revenue.  
